@@ -28,7 +28,7 @@ jobs:
       - name: Install and Build 🔧
         run: |
           npm install
-          npm run build
+          npx tailwindcss -i ./css/app.css -o ./css/app.min.css
 
       - name: Copy CNAME
         run: cp CNAME ./dist/
