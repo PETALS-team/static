@@ -1,5 +1,4 @@
-
-![PETALS logo]([https://assets.digitalocean.com/articles/alligator/boo.svg](https://github.com/PETALS-team/static/blob/main/images/android-chrome-192x192.png) "PETALS")
+<a href="https://petals.team/" title="Back to PETALS website"><img title="PETALS" alt="PETALS logo" src="https://github.com/PETALS-team/static/blob/main/images/android-chrome-192x192.png"></a>
 
 # PETALS static
 
