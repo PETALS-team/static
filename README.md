@@ -1,4 +1,4 @@
-<a href="https://petals.team/" title="Back to PETALS website"><img title="PETALS" alt="PETALS logo" src="https://github.com/PETALS-team/static/blob/main/images/android-chrome-192x192.png"></a>
+<a href="https://petals.team/" title="Back to PETALS website"><img title="PETALS" alt="PETALS logo" src="https://github.com/PETALS-team/static/blob/main/images/android-chrome-192x192.png?raw=true"></a>
 
 # PETALS static
 
