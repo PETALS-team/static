@@ -30,9 +30,6 @@ jobs:
           npm install
           npx tailwindcss -i ./css/app.css -o ./css/app.min.css
 
-      - name: Copy CNAME
-        run: cp CNAME ./dist/
-
       - name: Deploy 🚀
         uses: JamesIves/github-pages-deploy-action@releases/v4
         with:
