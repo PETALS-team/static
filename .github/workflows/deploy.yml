@@ -39,7 +39,7 @@ jobs:
       - name: Install and Build 🔧
         run: |
           npm install
-          npx tailwindcss -i ./css/app.css -o ./css/app.min.css
+          npx tailwindcss -i ./css/app.css -o ./dist/css/app.min.css
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
