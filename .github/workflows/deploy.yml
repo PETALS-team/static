@@ -40,6 +40,9 @@ jobs:
         run: |
           npm install
           npx tailwindcss -i ./css/app.css -o ./dist/css/app.min.css
+      - name: Copy docs
+        run: |
+          cp -rf ./docs/*.* ./dist/docs/
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
