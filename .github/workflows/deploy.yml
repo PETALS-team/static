@@ -43,7 +43,7 @@ jobs:
       - name: Copy docs
         run: |
           mkdir ./dist/docs
-          cp ./docs/what-is-PETALS.pdf ./dist/docs/
+          cp ./docs/what-is-petals.pdf ./dist/docs/
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
